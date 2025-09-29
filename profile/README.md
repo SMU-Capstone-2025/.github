@@ -14,7 +14,6 @@
 
 본 프로젝트는 **하나의 플랫폼에서 프로젝트 관리, 작업 관리, 문서 협업, 화상 통화 기능을 통합 제공**하여 효율적이고 직관적인 협업 환경을 제공합니다.  
 
----
 
 ## 2. 주요 기능
 ### 📂 프로젝트
@@ -36,13 +35,11 @@
 - 협업 지원  
 - 팀 커뮤니케이션  
 
----
 
-## 3. 아키텍처
+## 3. 시스템 아키텍처
 <img width="2356" height="1571" alt="image" src="https://github.com/user-attachments/assets/b6cd86da-1f79-4508-8156-3e83949ec285" />
 
 
----
 
 ## 4. 개발환경
 - **프론트엔드**: React, Tailwind CSS, TipTap Editor, WebRTC, WebSocket(STOMP)  
