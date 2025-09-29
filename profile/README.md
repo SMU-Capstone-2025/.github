@@ -1,7 +1,7 @@
 # Doctalk - 팀 협업을 더 스마트하게
 ![2025 캡스톤](https://github.com/user-attachments/assets/0251967a-64b2-4b41-8e7f-8b624eb51e91)
-## 🔗 배포 주소
-- [🌐 Doctalk 바로가기](https://docktalk.co.kr)  
+## 🔗 바로가기
+- [🌐 Doctalk ](https://docktalk.co.kr)  
 
 ## 1. 개요
 기존 협업 도구들은 채팅, 문서, 작업 관리가 여러 툴에 분산되어 있어 학생 팀 프로젝트나 기업 협업 환경에서 번거로움이 발생합니다.  
